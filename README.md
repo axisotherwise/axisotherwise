@@ -1,7 +1,6 @@
 💬  
   
 - 이메일 axisotherwise@gmail.com  
-- 블로그 https://thelapssql.tistory.com  
   
   
 ## Tech stack
