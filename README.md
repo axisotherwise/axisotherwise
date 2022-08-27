@@ -12,21 +12,18 @@
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white" alt="" width="90" height="30" style="display: inline;">
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat-square&logo=Apollo%20GraphQL&logoColor=white" alt="" width="120" height="30" style="display: inline;">
 </div>
-<br>  
 
 ### DB  
 <div> 
 <img src="https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white" alt="" width="75" height="30" style="display: inline;">
 <img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" alt="" width="100" height="30" style="display: inline;">
 </div>
-<br>  
 
 ### DEVOPS  
-<div>
-<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="" width="100" height="30">
-<img src="https://img.shields.io/badge/nginx-%2509639.svg?style=flat-square&logo=nginx&logoColor=white" alt="" width="75" height="3
+<div> 
+<img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="" width="100" height="30" style="display: inline;">
+<img src="https://img.shields.io/badge/nginx-%2509639.svg?style=flat-square&logo=nginx&logoColor=white" alt="" width="75" height="30" style="display: inline;">
 </div>
-<br> 
 
 ### TOOL  
 <div>
