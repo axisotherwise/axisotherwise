@@ -24,8 +24,7 @@
 ### DEVOPS  
 <div>
 <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=flat-square&logo=amazonaws&logoColor=white" alt="" width="100" height="30">
-<img src="https://img.shields.io/badge/nginx-%2509639.svg?style=flat-square&logo=nginx&logoColor=white" alt="" width="75" height="30">
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white" alt="" width="80" height="30">
+<img src="https://img.shields.io/badge/nginx-%2509639.svg?style=flat-square&logo=nginx&logoColor=white" alt="" width="75" height="3
 </div>
 <br> 
 
