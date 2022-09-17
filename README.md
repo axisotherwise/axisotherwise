@@ -7,7 +7,6 @@
 ## Tech stack
 ### SERVER
 <div>
-<img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="" width="105" height="30" style="display: inline;">
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="" width="80" height="30">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="" width="110" height="30" style="display: inline;">
 <img src="https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white" alt="" width="90" height="30" style="display: inline;">
