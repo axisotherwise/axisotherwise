@@ -9,7 +9,6 @@
 <div>
 <img src="https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white" alt="" width="80" height="30">
 <img src="https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB" alt="" width="110" height="30" style="display: inline;">
-<img src="https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white" alt="" width="90" height="30" style="display: inline;">
 <img src="https://img.shields.io/badge/Apollo%20GraphQL-311C87?&style=flat-square&logo=Apollo%20GraphQL&logoColor=white" alt="" width="120" height="30" style="display: inline;">
 </div>
 
