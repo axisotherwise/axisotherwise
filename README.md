@@ -10,9 +10,6 @@
 ﹏﹏﹏﹏﹏﹏﹏<br><br>
 
 
-
-
-I'm Seunggeun.<br/>
 Moments that I was worried about can be gathered to become a good developer!<br/>
 
 
